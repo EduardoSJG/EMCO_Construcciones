@@ -442,7 +442,7 @@
                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
                             <div class="img-lg-y">
-                                <img class="img-fluid" src="assets/img/portfolio/BaseSilos/Captura13.png" alt="" />
+                                <img class="img-fluid" src="assets/img/portfolio/BaseSilos/Captura13.PNG" alt="" />
                             </div>
                         </a>
                         <div class="portfolio-caption">
@@ -473,7 +473,7 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/PisoConcreto/Captura8.png" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/PisoConcreto/Captura8.PNG" alt="" />
                         </a>
                         <div class="portfolio-caption">
                             <div class="portfolio-caption-heading">Acabado en Pisos de Concreto</div>
@@ -501,7 +501,7 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/PisoEpoxico/Captura4.png" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/PisoEpoxico/Captura4.PNG" alt="" />
                         </a>
                         <div class="portfolio-caption">
                             <div class="portfolio-caption-heading">Pisos Epóxicos en Hospital</div>
@@ -518,7 +518,7 @@
                                 </div>
                             </div>
                             <div class="img-lg-y">
-                                <img class="img-fluid" src="assets/img/portfolio/EstructuraBarcel/EstructuraBarcel7.png" alt="" />
+                                <img class="img-fluid" src="assets/img/portfolio/EstructuraBarcel/EstructuraBarcel7.PNG" alt="" />
                             </div>
                         </a>
                         <div class="portfolio-caption">
@@ -809,10 +809,10 @@
                     <!-- Diapositivas -->
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/BaseSilos/Captura13.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/BaseSilos/Captura13.PNG" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/BaseSilos/Captura12.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/BaseSilos/Captura12.PNG" />
                         </div>
                     </div>
                 </div>
@@ -838,13 +838,13 @@
                     <!-- Diapositivas -->
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/AmpliacionNaves/Captura11.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/AmpliacionNaves/Captura11.PNG" />
                         </div>
                         <div class="carousel-item">
                             <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/AmpliacionNaves/Captura9.png" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/AmpliacionNaves/Captura10.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/AmpliacionNaves/Captura10.PNG" />
                         </div>
                     </div>
                 </div>
@@ -871,10 +871,10 @@
                     <!-- Diapositivas -->
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoConcreto/Captura9.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoConcreto/Captura9.PNG" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoConcreto/Captura8.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoConcreto/Captura8.PNG" />
                         </div>
                     </div>
                 </div>
@@ -906,13 +906,13 @@
                             <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Epoxico2.jpg" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura10.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura10.PNG" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura9.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura9.PNG" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura8.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura8.PNG" />
                         </div>
                     </div>
                 </div>
@@ -938,25 +938,25 @@
                     <!-- Diapositivas -->
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura1.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura1.PNG" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura2.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura2.PNG" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura3.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura3.PNG" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura4.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura4.PNG" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura5.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura5.PNG" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura6.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura6.PNG" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura7.png" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/PisoEpoxico/Captura7.PNG" />
                         </div>
                     </div>
                 </div>
@@ -982,10 +982,10 @@
                     <!-- Diapositivas -->
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/LavadoTinas/Captura3.png" alt="" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/LavadoTinas/Captura3.PNG" alt="" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/LavadoTinas/Captura2.png" alt="" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/LavadoTinas/Captura2.PNG" alt="" />
                         </div>
                     </div>
                 </div>
@@ -1020,10 +1020,10 @@
                             <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/EstructuraBarcel/EstructuraBarcel3.jpg" alt="" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/EstructuraBarcel/EstructuraBarcel4.png" alt="" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/EstructuraBarcel/EstructuraBarcel4.PNG" alt="" />
                         </div>
                         <div class="carousel-item">
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/EstructuraBarcel/EstructuraBarcel7.png" alt="" />
+                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/EstructuraBarcel/EstructuraBarcel7.PNG" alt="" />
                         </div>
                     </div>
                 </div>
