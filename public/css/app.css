@@ -1,0 +1,84 @@
+@media (max-width: 990px) {
+    
+    .map__image {
+    width: responsive;
+    }   
+}
+@media (min-width: 990px) {
+    .map__image {
+    width: var(--breakpoint-lg);
+    }   
+}
+
+.map {
+    height: inherit;
+}
+
+
+
+.land {
+    fill: #CCCCCC;
+    fill-opacity: 1;
+    stroke: white;
+    stroke-opacity: 1;
+    stroke-width: 0.5;
+}
+
+.land:hover {
+    fill: #a8a8a8;
+}
+
+.activeLand {
+    fill: #4297c8;
+    fill-opacity: 1;
+    stroke: white;
+    stroke-opacity: 1;
+    stroke-width: 0.5;
+    transition: transform .2s;
+}
+
+.activeLand:hover {
+    fill: #1d5c81;
+}
+
+.map__list {
+    position: absolute;
+    top: 30%;
+    right: 15%;
+}
+
+.map__list a {
+    color: #6c757d;
+    text-decoration: none;
+}
+
+.map__list a:hover {
+    color: #1d5c81;
+    font-weight: bold;
+}
+
+.bottom_right {
+    position: absolute;
+    bottom: -20%;
+}
+
+.right_box {
+    background-color: #000;
+    color: #6c757d;
+    position: absolute;
+    bottom: 0%;
+    right: 1%;
+    width: 40%;
+}
+
+@media (max-width: 768px) {
+    
+    .aux1-height{
+    height: 420px
+    }
+}
+@media (min-width: 768px) {
+    .aux1-height{
+        height: 280px
+    }
+} 
