@@ -1,20 +1,10 @@
-@media (max-width: 990px) {
-    
-    .map__image {
+.map__image {
     width: responsive;
-    }   
-}
-@media (min-width: 990px) {
-    .map__image {
-    width: var(--breakpoint-lg);
-    }   
 }
 
 .map {
     height: inherit;
 }
-
-
 
 .land {
     fill: #CCCCCC;
@@ -42,9 +32,7 @@
 }
 
 .map__list {
-    position: absolute;
-    top: 30%;
-    right: 15%;
+    font-size: 140%;
 }
 
 .map__list a {
@@ -71,14 +59,16 @@
     width: 40%;
 }
 
-@media (max-width: 768px) {
-    
-    .aux1-height{
-    height: 420px
+@media (min-width: 1200px) {
+    .aux1-padding {
+        padding-left: 8rem;
+        padding-top: 2rem;
     }
 }
-@media (min-width: 768px) {
-    .aux1-height{
-        height: 280px
+
+@media (max-width: 1200px) {
+    .aux1-padding {
+        margin-left: 3rem;
+        margin-right: 3rem;
     }
-} 
+}
