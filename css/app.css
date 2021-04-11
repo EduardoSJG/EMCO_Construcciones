@@ -1,0 +1,74 @@
+.map__image {
+    width: responsive;
+}
+
+.map {
+    height: inherit;
+}
+
+.land {
+    fill: #CCCCCC;
+    fill-opacity: 1;
+    stroke: white;
+    stroke-opacity: 1;
+    stroke-width: 0.5;
+}
+
+.land:hover {
+    fill: #a8a8a8;
+}
+
+.activeLand {
+    fill: #4297c8;
+    fill-opacity: 1;
+    stroke: white;
+    stroke-opacity: 1;
+    stroke-width: 0.5;
+    transition: transform .2s;
+}
+
+.activeLand:hover {
+    fill: #2c698d;
+}
+
+.map__list {
+    font-size: 140%;
+}
+
+.map__list a {
+    color: #6c757d;
+    text-decoration: none;
+}
+
+.map__list a:hover {
+    color: #1d5c81;
+    font-weight: bold;
+}
+
+.bottom_right {
+    position: absolute;
+    bottom: -20%;
+}
+
+.right_box {
+    background-color: #000;
+    color: #6c757d;
+    position: absolute;
+    bottom: 0%;
+    right: 1%;
+    width: 40%;
+}
+
+@media (min-width: 1200px) {
+    .aux1-padding {
+        padding-left: 8rem;
+        padding-top: 2rem;
+    }
+}
+
+@media (max-width: 1200px) {
+    .aux1-padding {
+        margin-left: 3rem;
+        margin-right: 3rem;
+    }
+}
